@@ -4,7 +4,6 @@
 
 # Tecnologias utilizadas
 
-## Front end
 - HTML 
 - CSS
 - Bootstrap

@@ -1,0 +1,48 @@
+
+.icon-link-menu{
+    color: black;
+}
+.icon-link-menu:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+.image-profile, .profile-enjoy{
+    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+}
+.image-stories{
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.stories-username{
+    text-align: center;
+    font-size: 12px;
+}
+.profile-post{
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+}
+.post-username, .username, .username-secondary{
+    font-size: 14px;
+    font-weight: 500;
+}
+.post-coments, .sugestions{
+    font-size: 14px;
+}
+.post-coments-hour{
+    font-size: 10px;
+}
+
+
+

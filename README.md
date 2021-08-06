@@ -2,13 +2,13 @@
 - Exercício de Fixação Módulo 1 Bootcamp IGTI - Desenv. FrontEnd; Objetivo: Fazer a cópia da página inicial do Instagram.
 - Link da página: https://daianem.github.io/instagram-web-copy/
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML 
 - CSS
 - Bootstrap
 
-### Layout Web
+## Layout Web
 #### (obs: não responsivo)
 <p align="center"><b>Print 1</b></p>
  
